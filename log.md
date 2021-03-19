@@ -6,6 +6,6 @@
 
 **Thoughts:** Used python list and array to understand how the two data structures differ from each while writing code for array rotation.
 
-**Link to work:** [Array](http://www.example.com)
+**Link to work:** [Array](https://github.com/SamruddhiMhatre/100-DoC/blob/main/Day%201/ArrayRotation.py)
 
 
