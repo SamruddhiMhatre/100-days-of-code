@@ -14,6 +14,6 @@
 
 
 
-**Link to work:** [EU-Startup Scrapper](https://github.com/SamruddhiMhatre/100-DoC/blob/main/Day%201/ArrayRotation.py)
+**Link to work:** [EU-Startup Scrapper](https://github.com/SamruddhiMhatre/100-DoC/blob/main/Day%202/eu_startup_scrapper.py)
 
 
