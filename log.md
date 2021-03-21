@@ -17,6 +17,6 @@
 
 **Today's Progress**: Solved two problems from CodeChef on Complexity Analysis using python programming and continued working on scraping eu-startups website using BeautifulSoup. #100DaysOfCode
 **Link to work:** [EU-Startup Scrapper](https://github.com/SamruddhiMhatre/100-DoC/blob/main/Day%202/eu_startup_scrapper.py)
-                  [Code Chef Problem]()
+                  [Code Chef Problem](https://github.com/SamruddhiMhatre/100-DoC/blob/main/Day%203/lapindrome.py)
 
 
