@@ -2,5 +2,5 @@
 
 ### Day 1: 26th June 2021
 
-Binomial Distribution 
+[Binomial Distribution](https://github.com/SamruddhiMhatre/Interview-Coding-Questions/blob/main/Interview%20Query/Python/binomial_distribution.py)
 
