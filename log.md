@@ -4,3 +4,7 @@
 
 [Binomial Distribution](https://github.com/SamruddhiMhatre/Interview-Coding-Questions/blob/main/Interview%20Query/Python/binomial_distribution.py)
 
+### Day 2: 27th June 2021
+
+[RSME](https://github.com/SamruddhiMhatre/Interview-Coding-Questions/blob/main/Interview%20Query/Python/rsme.py)
+
