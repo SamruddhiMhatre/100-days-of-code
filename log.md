@@ -7,4 +7,5 @@
 ### Day 2: 27th June 2021
 
 [RSME](https://github.com/SamruddhiMhatre/Interview-Coding-Questions/blob/main/Interview%20Query/Python/rsme.py)
+[Last Page Number](https://github.com/SamruddhiMhatre/Interview-Coding-Questions/blob/main/Interview%20Query/Python/lastpagenumber.py)
 
