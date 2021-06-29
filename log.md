@@ -10,3 +10,8 @@
 
 [Last Page Number](https://github.com/SamruddhiMhatre/Interview-Coding-Questions/blob/main/Interview%20Query/Python/lastpagenumber.py)
 
+### Day 3: 28th June 2021
+
+[Minimum Change](https://github.com/SamruddhiMhatre/Interview-Coding-Questions/blob/main/Interview%20Query/Python/minimum_change.py)
+
+### Day 4: 29th June 2021
